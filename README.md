@@ -14,7 +14,7 @@
 20/12 --> Problèmes GNS3 sur la virtualisation (VM GNS3)
       --> Problèmes d'appliance GNS (oui encore)
 
-17/01 --> Problème avec la console SolarWinds
-      --> Configuration machines/équipement
-
+17/01 --> Problème avec la console SolarWinds (version GNS3) Les équipements ne peuvent pas être accessible en telnet
+      --> Configuration machines/équipement (enfin tentative)
+      
 Le plan réseau et les configurations d'équipement sont dans le répo
