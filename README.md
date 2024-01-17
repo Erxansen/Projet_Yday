@@ -7,8 +7,14 @@
       --> Finition de mise en place GNS3 et appliances manquantes
       --> Commencement des configurations des machines/équipements
 
-Le plan réseau est dans le répo
+06/12 --> Finition du plan réseau
+      --> Problèmes d'appliance GNS3 (plutôt galère)
+      --> Configuration machines/équipement
 
+20/12 --> Problèmes GNS3 sur la virtualisation (VM GNS3)
+      --> Problèmes d'appliance GNS (oui encore)
 
-Dans ce fichier, nous retrouvons les configurations de tous les PC's/équipements réseau, ainsi qu'une explication de l'architecture
+17/01 --> Problème avec la console SolarWinds
+      --> Configuration machines/équipement
 
+Le plan réseau et les configurations d'équipement sont dans le répo
