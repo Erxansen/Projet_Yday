@@ -17,4 +17,4 @@
 17/01 --> Problème avec la console SolarWinds (version GNS3) Les équipements ne peuvent pas être accessible en telnet
       --> Configuration machines/équipement (enfin tentative)
       
-Le plan réseau et les configurations d'équipement sont dans le répo
+Le plan réseau est dans le répo
